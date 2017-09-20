@@ -1,0 +1,45 @@
+{
+  "project_info": {
+    "project_number": "1040358916702",
+    "firebase_url": "https://plantech-35083.firebaseio.com",
+    "project_id": "plantech-35083",
+    "storage_bucket": "plantech-35083.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1040358916702:android:71aa62c264f55e2a",
+        "android_client_info": {
+          "package_name": "com.example.rishabh.plantech"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1040358916702-llqj438niro5o8focm7vuk7t37sdoqfv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7OLSoM98eJMfZZVad7knaonzGWuWKOcQ"
+        },
+        {
+          "current_key": "AIzaSyA1fFLoeYEm49Bgoydy2Q-5946EkU2M-CQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
